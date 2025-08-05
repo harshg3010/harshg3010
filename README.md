@@ -1,24 +1,47 @@
-## Hi there 👋 I'm Harsh Goel
+<!-- Profile Views Badge -->
+![Profile views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat)
 
-🎯 Passionate about building real-time applications and solving algorithmic challenges.
+# 🙋‍♂️ Hey, I'm Harsh Goel.
 
-💻 Tech Stack:
-- 💡 Languages: C/C++, Python, JavaScript, Java
-- 🧠 Libraries: OpenCV, NumPy, Pandas
-- 🌐 Web: Node.js, Express, PostgreSQL, MongoDB
-- ⚙️ Tools: Git, VS Code, Postman, PyCharm
+- 💬 Ask me about **SQL, C++, DSA, Computer Science**
+- 📫 How to reach me: [your_email@example.com](mailto:your_email@example.com)
 
-🔭 Projects I'm working on:
-- 🔢 Real-time Sudoku Solver using OpenCV
-- 🧊 Rubik's Cube Visual Solver
-- 🛒 Full-stack E-Commerce App (Go + React)
 
-📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/[your-profile/](https://www.linkedin.com/in/harsh-goel-696159276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- [Email](harshgoel3010@gmail.com)
-- [Leetcode](https://leetcode.com/u/HG3010/)
+---
 
-⭐ Fun Fact: I automate things before I do them twice.
+## 🛠️ Languages and Tools:
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshgoel&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="ExpressJS"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<!-- Replace YourUsername with your actual GitHub username -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshg3010&layout=compact&theme=radical" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 📫 Connect with me:
+
+<p align="left">
+  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/harsh-goel-696159276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your_email@example.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"/>
+  </a>
+</p>
