@@ -1,9 +1,9 @@
 <!-- Profile Views Badge -->
-![Profile views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=harshg3010&label=Profile%20views&color=0e75b6&style=flat)
 
-# 🙋‍♂️ Hey, I'm Harsh Goel.
+# 🙋‍♂️ Hey, I'm Harsh Goel, A Passionate Software Developer looking for Roles.
 
-- 💬 Ask me about **OOPs,Computer Networks, DBMS, DSA**
+- 💬 Ask me about **OOPs, Computer Networks, DBMS, Operating Systems, DSA.**
 - 📫 How to reach me: [harshgoel3010@gmail.com](mailto:your_email@example.com)
 
 
@@ -38,10 +38,25 @@
 ## 📫 Connect with me:
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/harsh-goel-696159276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/harsh-goel-696159276" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"/>
+
+  <!-- Gmail -->
+  <a href="mailto:harshgoel3010@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/HG3010/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/harshgoifgp/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
   </a>
 </p>
+
+
