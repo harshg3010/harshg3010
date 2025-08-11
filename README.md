@@ -3,8 +3,8 @@
 
 # 🙋‍♂️ Hey, I'm Harsh Goel.
 
-- 💬 Ask me about **SQL, C++, DSA, Computer Science**
-- 📫 How to reach me: [your_email@example.com](mailto:your_email@example.com)
+- 💬 Ask me about **OOPs,Computer Networks, DBMS, DSA**
+- 📫 How to reach me: [harshgoel3010@gmail.com](mailto:your_email@example.com)
 
 
 ---
@@ -30,7 +30,7 @@
 <!-- Replace YourUsername with your actual GitHub username -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshg3010&layout=compact&theme=radical" alt="Most Used Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshg3010&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
