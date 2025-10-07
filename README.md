@@ -58,15 +58,12 @@
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
   </a>
 
-  <// Codeforces link (React)
-<a
-  href="https://codeforces.com/profile/harshgoel301"
-  target="_blank"
-  rel="noopener noreferrer"
-  title="Codeforces - harshgoel301"
->
-  <img src="https://img.icons8.com/color/48/000000/codeforces.png" alt="Codeforces" />
-</a>
+  <!-- CodeForces -->
+  <a href="https://codeforces.com/profile/harshgoel301" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/codeforces.png" alt="GeeksforGeeks" />
+  </a>
+
+ 
 
 </p>
 
