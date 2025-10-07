@@ -58,10 +58,7 @@
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
   </a>
 
-  <!-- Codeforces -->
-<a href="https://codeforces.com/profile/harshgoel301" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/codeforces.png" alt="Codeforces" />
-</a>
+ 
 
 
  
