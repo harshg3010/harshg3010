@@ -4,7 +4,7 @@
 # 🙋‍♂️ Hey, I'm Harsh Goel, A Passionate Software Developer looking for Roles.
 
 - 💬 Ask me about **OOPs, Computer Networks, DBMS, Operating Systems, DSA.**
-- 📫 How to reach me: [harshgoel3010@gmail.com](mailto:your_email@example.com) [https://harsh-goel-portfolio.netlify.app/]
+- 📫 How to reach me: [harshgoel3010@gmail.com](mailto:your_email@example.com) https://harsh-goel-portfolio.netlify.app/
 
 
 ---
